@@ -6,9 +6,7 @@
  <img src="https://user-images.githubusercontent.com/93658180/207932889-699bb365-bcff-4c8f-9c59-4f5fea71e419.jpg" width="200" height="350">
 </p>
 <br>
-1. Locate your file directory in Command Prompt/Terminal
-ie. cd C:\Users\user\java-project
-
+1. Locate your file directory in Command Prompt/Terminal, ie. cd C:\Users\user\java-project
 2. Run 2 lines below seperately in Command Prompt/Terminal according to your platform.
 
 <b>For Windows:</b>
