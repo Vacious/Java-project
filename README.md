@@ -7,8 +7,8 @@
 </p>
 <br>
 1. Locate your file directory in Command Prompt/Terminal, ie. cd C:\Users\user\java-project
-2. <br>
-3. Run 2 lines below seperately in Command Prompt/Terminal according to your platform
+<br>
+2. Run 2 lines below seperately in Command Prompt/Terminal according to your platform
 
 <b>For Windows:</b>
 javac -d src -cp .\jars\jfreechart-1.5.3.jar;.\jars\jdatepicker-1.3.4.jar templates/*.java *.java
