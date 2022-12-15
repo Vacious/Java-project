@@ -11,11 +11,15 @@
 2. Run 2 lines below seperately in Command Prompt/Terminal according to your platform
 
 <b>For Windows:</b>
+<br>
 javac -d src -cp .\jars\jfreechart-1.5.3.jar;.\jars\jdatepicker-1.3.4.jar templates/*.java *.java
+<br>
 java -cp .\src;.\jars\jfreechart-1.5.3.jar;.\jars\jdatepicker-1.3.4.jar Project
 
 <b>For Mac:</b>
+<br>
 javac -d src -cp ./jars/jfreechart-1.5.3.jar:./jars/jdatepicker-1.3.4.jar templates/*.java *.java
+<br>
 java -cp ./src:./jars/jfreechart-1.5.3.jar:./jars/jdatepicker-1.3.4.jar Project
 
 
